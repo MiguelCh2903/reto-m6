@@ -18,7 +18,7 @@ cd ~/multipacha_ws/src
 
 2. Clonar Repositorio
 ```bash
-git clone https://github.tu-usuario/multipacha.git
+git clone https://github.com/MiguelCh2903/reto-m6.git
 ```
 
 3. Instalar Dependencias
